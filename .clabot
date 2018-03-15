@@ -1,0 +1,5 @@
+{
+  "contributorListGithubUrl": "https://api.github.com/repos/ssf-admin/cla-bot-staging/contents/contributors.json",
+  "label": "cla-signed",
+  "message": "Test message. List of users without CLA: '{{usersWithoutCLA}}'"
+}
